@@ -3,7 +3,7 @@
 저희는 교수님께서 구현하라고 팀프로젝트 게시판에 올리신 모든 기능을 구현하였습니다.
 
 일단, 프로그램이 돌아가는 방식은, 제가 올린 파일인 teamp1.py 파일을 다운받고, 안에 import 된 모든 것을 install 하신 후에, 
-ElasticSearch를 실행시킵니다. 그리고 teamp.py이 저장된 폴더에서 ./teamp.py —listen-port=8899 를 치시면
+ElasticSearch를 실행시킵니다. 그리고 teamp1.py이 저장된 폴더에서 ./teamp1.py —listen-port=8899 를 치시면
 http://155.230.91.204:200XX/
 (XX는 접속한 vm번호)
 사이트에 제희 팀이 만든 사이트가 실행될 수 있게 됩니다.
